@@ -1,0 +1,9 @@
+G:\study\git\AspEFCore\AspEFCore.Domain\bin\Debug\netcoreapp2.1\AspEFCore.Domain.deps.json
+G:\study\git\AspEFCore\AspEFCore.Domain\bin\Debug\netcoreapp2.1\AspEFCore.Domain.dll
+G:\study\git\AspEFCore\AspEFCore.Domain\bin\Debug\netcoreapp2.1\AspEFCore.Domain.pdb
+G:\study\git\AspEFCore\AspEFCore.Domain\obj\Debug\netcoreapp2.1\AspEFCore.Domain.csprojAssemblyReference.cache
+G:\study\git\AspEFCore\AspEFCore.Domain\obj\Debug\netcoreapp2.1\AspEFCore.Domain.csproj.CoreCompileInputs.cache
+G:\study\git\AspEFCore\AspEFCore.Domain\obj\Debug\netcoreapp2.1\AspEFCore.Domain.AssemblyInfoInputs.cache
+G:\study\git\AspEFCore\AspEFCore.Domain\obj\Debug\netcoreapp2.1\AspEFCore.Domain.AssemblyInfo.cs
+G:\study\git\AspEFCore\AspEFCore.Domain\obj\Debug\netcoreapp2.1\AspEFCore.Domain.dll
+G:\study\git\AspEFCore\AspEFCore.Domain\obj\Debug\netcoreapp2.1\AspEFCore.Domain.pdb

@@ -1,0 +1,14 @@
+G:\study\git\AspEFCore\ClasAspEFCore.Data\bin\Debug\netcoreapp2.1\AspEFCore.Domain.dll
+G:\study\git\AspEFCore\ClasAspEFCore.Data\obj\Debug\netcoreapp2.1\ClasAspEFCore.Data.csprojAssemblyReference.cache
+G:\study\git\AspEFCore\ClasAspEFCore.Data\obj\Debug\netcoreapp2.1\ClasAspEFCore.Data.csproj.CoreCompileInputs.cache
+G:\study\git\AspEFCore\ClasAspEFCore.Data\obj\Debug\netcoreapp2.1\ClasAspEFCore.Data.AssemblyInfoInputs.cache
+G:\study\git\AspEFCore\ClasAspEFCore.Data\obj\Debug\netcoreapp2.1\ClasAspEFCore.Data.AssemblyInfo.cs
+G:\study\git\AspEFCore\ClasAspEFCore.Data\bin\Debug\netcoreapp2.1\ClasAspEFCore.Data.deps.json
+G:\study\git\AspEFCore\ClasAspEFCore.Data\bin\Debug\netcoreapp2.1\ClasAspEFCore.Data.runtimeconfig.json
+G:\study\git\AspEFCore\ClasAspEFCore.Data\bin\Debug\netcoreapp2.1\ClasAspEFCore.Data.runtimeconfig.dev.json
+G:\study\git\AspEFCore\ClasAspEFCore.Data\bin\Debug\netcoreapp2.1\ClasAspEFCore.Data.dll
+G:\study\git\AspEFCore\ClasAspEFCore.Data\bin\Debug\netcoreapp2.1\ClasAspEFCore.Data.pdb
+G:\study\git\AspEFCore\ClasAspEFCore.Data\bin\Debug\netcoreapp2.1\AspEFCore.Domain.pdb
+G:\study\git\AspEFCore\ClasAspEFCore.Data\obj\Debug\netcoreapp2.1\ClasAspEFCore.Data.csproj.CopyComplete
+G:\study\git\AspEFCore\ClasAspEFCore.Data\obj\Debug\netcoreapp2.1\ClasAspEFCore.Data.dll
+G:\study\git\AspEFCore\ClasAspEFCore.Data\obj\Debug\netcoreapp2.1\ClasAspEFCore.Data.pdb
